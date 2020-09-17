@@ -1,11 +1,18 @@
 # Micro Reddit
 > This is a Microverse, Technical curriculum, Ruby on Rails Micro-Reddit backend.
 
+## Sample Screenshot
+<img src="./app/assets/images/1.JPG" width="60%" height="500" />
+<img src="./app/assets/images/2.JPG" width="60%" height="500" />
+<img src="./app/assets/images/3.JPG" width="60%" height="500" />
+<img src="./app/assets/images/4.JPG" width="60%" height="500" />
+
 ## Built With
 
 - Ruby on Rails
 - sqlite3 for the local development
 - VScode
+
 ## Instructions
 * 1. Install: [Ruby Developer kit](https://rubyinstaller.org/downloads/)
 * 2. gem install rails -v 6.0.0 (or higher) |cmd command|
