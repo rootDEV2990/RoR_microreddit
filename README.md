@@ -6,7 +6,13 @@
 - Ruby on Rails
 - sqlite3 for the local development
 - VScode
-
+## Instructions
+* 1. Install: [Ruby Developer kit](https://rubyinstaller.org/downloads/)
+* 2. gem install rails -v 6.0.0 (or higher) |cmd command|
+* 3. gem update |cmd command|
+* 4. Change directory to the project folder
+* 5. Run `bundle` 
+* 6. Run `rails c` to test the project
 ## Author
 
 👤 **Bereket Beshane**
