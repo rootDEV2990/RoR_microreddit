@@ -2,10 +2,10 @@
 > This is a Microverse, Technical curriculum, Ruby on Rails Micro-Reddit backend.
 
 ## Sample Screenshot
-<img src="./app/assets/images/1.JPG" width="60%" height="500" />
-<img src="./app/assets/images/2.JPG" width="60%" height="500" />
-<img src="./app/assets/images/3.JPG" width="60%" height="500" />
-<img src="./app/assets/images/4.JPG" width="60%" height="500" />
+<img src="./app/assets/images/1.JPG" width="100%" height="500" />
+<img src="./app/assets/images/2.JPG" width="100%" height="500" />
+<img src="./app/assets/images/3.JPG" width="100%" height="500" />
+<img src="./app/assets/images/4.JPG" width="100%" height="500" />
 
 ## Built With
 
